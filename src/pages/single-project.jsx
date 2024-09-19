@@ -54,10 +54,10 @@ const SingleProject = () => {
                                 <p>Github</p>
                                 <h3><a target="_blank" style={{color :"white", textDecoration : "underline"}} href={data.github}>Lien github</a></h3>
                             </div>
-                            <div className="single-info">
+                            {data.project && <div className="single-info">
                                 <p>Project</p>
-                                <h3><a target="_blank" style={{color :"white", textDecoration : "underline"}} href={data.github}>Voir le projet</a></h3>
-                            </div>
+                                <h3><a target="_blank" style={{color :"white", textDecoration : "underline"}} href={data.project}>Voir le projet</a></h3>
+                            </div>}
                         </div>
                     </div>
                     <div className="col-lg-8">
