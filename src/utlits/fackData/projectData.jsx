@@ -4,16 +4,16 @@ import bookie2 from "../../assets/images/projects/bookie/2.png"
 import bookie3 from "../../assets/images/projects/bookie/3.png"
 
 //Sophie
-import sophie1 from "../../assets/images/projects/Sophie/1.png"
-import sophie2 from "../../assets/images/projects/Sophie/2.png"
-import sophie3 from "../../assets/images/projects/Sophie/3.png"
-import sophie4 from "../../assets/images/projects/Sophie/4.png"
+import sophie1 from "../../assets/images/projects/sophie/1.png"
+import sophie2 from "../../assets/images/projects/sophie/2.png"
+import sophie3 from "../../assets/images/projects/sophie/3.png"
+import sophie4 from "../../assets/images/projects/sophie/4.png"
 
 //Kaza
-import kaza1 from "../../assets/images/projects/Kaza/1.png"
-import kaza2 from "../../assets/images/projects/Kaza/2.png"
-import kaza3 from "../../assets/images/projects/Kaza/3.png"
-import kaza4 from "../../assets/images/projects/Kaza/4.png"
+import kaza1 from "../../assets/images/projects/kaza/1.png"
+import kaza2 from "../../assets/images/projects/kaza/2.png"
+import kaza3 from "../../assets/images/projects/kaza/3.png"
+import kaza4 from "../../assets/images/projects/kaza/4.png"
 
 //Grimoire
 import grimoire1 from "../../assets/images/projects/grimoire/1.png"
