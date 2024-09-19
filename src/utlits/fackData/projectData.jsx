@@ -1,7 +1,7 @@
 // Bookie
-import bookie1 from "../../assets/images/projects/bookie/1.PNG"
-import bookie2 from "../../assets/images/projects/bookie/2.PNG"
-import bookie3 from "../../assets/images/projects/bookie/3.PNG"
+import bookie1 from "../../assets/images/projects/bookie/1.png"
+import bookie2 from "../../assets/images/projects/bookie/2.png"
+import bookie3 from "../../assets/images/projects/bookie/3.png"
 
 //Sophie
 import sophie1 from "../../assets/images/projects/Sophie/1.png"
