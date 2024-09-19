@@ -1,37 +1,37 @@
 // Bookie
-import bookie1 from "../../assets/images/projects/bookie/1.png"
-import bookie2 from "../../assets/images/projects/bookie/2.png"
-import bookie3 from "../../assets/images/projects/bookie/3.png"
+// import bookie1 from "../../assets/images/projects/bookie/1.png"
+// import bookie2 from "../../assets/images/projects/bookie/2.png"
+// import bookie3 from "../../assets/images/projects/bookie/3.png"
 
-//Sophie
-import sophie1 from "../../assets/images/projects/sophie/1.png"
-import sophie2 from "../../assets/images/projects/sophie/2.png"
-import sophie3 from "../../assets/images/projects/sophie/3.png"
-import sophie4 from "../../assets/images/projects/sophie/4.png"
+// //Sophie
+// import sophie1 from "../../assets/images/projects/sophie/1.png"
+// import sophie2 from "../../assets/images/projects/sophie/2.png"
+// import sophie3 from "../../assets/images/projects/sophie/3.png"
+// import sophie4 from "../../assets/images/projects/sophie/4.png"
 
-//Kaza
-import kaza1 from "../../assets/images/projects/kaza/1.png"
-import kaza2 from "../../assets/images/projects/kaza/2.png"
-import kaza3 from "../../assets/images/projects/kaza/3.png"
-import kaza4 from "../../assets/images/projects/kaza/4.png"
+// //Kaza
+// import kaza1 from "../../assets/images/projects/kaza/1.png"
+// import kaza2 from "../../assets/images/projects/kaza/2.png"
+// import kaza3 from "../../assets/images/projects/kaza/3.png"
+// import kaza4 from "../../assets/images/projects/kaza/4.png"
 
-//Grimoire
-import grimoire1 from "../../assets/images/projects/grimoire/1.png"
-import grimoire2 from "../../assets/images/projects/grimoire/2.png"
-import grimoire3 from "../../assets/images/projects/grimoire/3.png"
-import grimoire4 from "../../assets/images/projects/grimoire/4.png"
+// //Grimoire
+// import grimoire1 from "../../assets/images/projects/grimoire/1.png"
+// import grimoire2 from "../../assets/images/projects/grimoire/2.png"
+// import grimoire3 from "../../assets/images/projects/grimoire/3.png"
+// import grimoire4 from "../../assets/images/projects/grimoire/4.png"
 
-//Qwenta
-import qwenta1 from "../../assets/images/projects/qwenta/1.png"
-import qwenta2 from "../../assets/images/projects/qwenta/2.png"
-import qwenta3 from "../../assets/images/projects/qwenta/3.png"
-import qwenta4 from "../../assets/images/projects/qwenta/4.png"
+// //Qwenta
+// import qwenta1 from "../../assets/images/projects/qwenta/1.png"
+// import qwenta2 from "../../assets/images/projects/qwenta/2.png"
+// import qwenta3 from "../../assets/images/projects/qwenta/3.png"
+// import qwenta4 from "../../assets/images/projects/qwenta/4.png"
 
-//Apple
-import apple1 from "../../assets/images/projects/apple/1.png"
-import apple2 from "../../assets/images/projects/apple/2.png"
-import apple3 from "../../assets/images/projects/apple/3.png"
-import apple4 from "../../assets/images/projects/apple/4.png"
+// //Apple
+// import apple1 from "../../assets/images/projects/apple/1.png"
+// import apple2 from "../../assets/images/projects/apple/2.png"
+// import apple3 from "../../assets/images/projects/apple/3.png"
+// import apple4 from "../../assets/images/projects/apple/4.png"
 
 //logo
 import html from "../../assets/images/projects/icon/html.svg"
@@ -60,12 +60,12 @@ export const projectsData = [
         ],
         project: "",
         github: "https://github.com/lmn31190/P2_booki",
-        // img: [
-        //     bookie1,
-        //     bookie2,
-        //     bookie3,
-        //     bookie1
-        // ]
+        img: [
+            "../../assets/images/projects/bookie/1.png",
+            // bookie2,
+            // bookie3,
+            // bookie1
+        ]
     },
 //     {
 //         id: 2,
